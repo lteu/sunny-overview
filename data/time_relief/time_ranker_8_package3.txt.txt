@@ -1,0 +1,1 @@
+3820.1301651 SAT12-HAND ranker 8 features 3.46725821495 

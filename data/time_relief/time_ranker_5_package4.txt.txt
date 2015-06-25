@@ -1,0 +1,1 @@
+27681.278012 SAT12-ALL ranker 5 features 11.5714740753 

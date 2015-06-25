@@ -1,0 +1,1 @@
+2606.870821 SAT12-HAND ranker 6 features 0.953382968903 

@@ -1,0 +1,1 @@
+3270.45225 SAT12-HAND ranker 16 features 1.05130386353 

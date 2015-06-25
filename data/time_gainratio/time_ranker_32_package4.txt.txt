@@ -1,0 +1,1 @@
+26913.537715 SAT12-ALL ranker 32 features 1.78306293488 
